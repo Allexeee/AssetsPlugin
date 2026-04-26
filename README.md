@@ -2,7 +2,7 @@
 
 > **AssetsPlugin** – a convenient and simple static content management system for Unity projects.
 
-🟢 [Read in Russian / Читать на русском](README.ru.md)
+🟢 [Read in Russian / Читать на русском](README_ru.md)
 
 ## Description
 
